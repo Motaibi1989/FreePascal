@@ -1,0 +1,23 @@
+object Form1: TForm1
+  Cursor = crNo
+  Left = 1414
+  Height = 240
+  Top = 578
+  Width = 320
+  BorderStyle = bsDialog
+  Caption = 'Screens - [ Motaibi1989 ]'
+  ClientHeight = 240
+  ClientWidth = 320
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '3.0.0.3'
+  object Memo1: TMemo
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    Align = alClient
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+end
