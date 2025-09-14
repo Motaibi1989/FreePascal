@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="scanfolder.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ScanFolder"/>
+        <TopLine Value="193"/>
+        <CursorPos X="79" Y="220"/>
+        <UsageCount Value="153"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\lazarus\components\lazutils\fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="10" Y="63"/>
+        <UsageCount Value="76"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\usr\lib\lazarus\3.0\components\freetype\easylazfreetype.pas"/>
+        <UnitName Value="EasyLazFreeType"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="31" Y="22"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="95" Column="42" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="98" Column="68" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="342" Column="16" TopLine="311"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="316" Column="5" TopLine="310"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="323" Column="5" TopLine="304"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="325" Column="10" TopLine="306"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="331" Column="21" TopLine="312"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="333" Column="23" TopLine="314"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="337" Column="43" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="339" Column="27" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="342" Column="39" TopLine="324"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="344" Column="59" TopLine="326"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="348" Column="57" TopLine="330"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="350" Column="72" TopLine="332"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="358" Column="25" TopLine="340"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="360" Column="7" TopLine="342"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="458" TopLine="421"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="404" Column="16" TopLine="371"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="401" Column="91" TopLine="388"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="233" Column="16" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="242" Column="27" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="301" Column="28" TopLine="275"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="322" Column="35" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="408" Column="28" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="212" Column="71" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="301" Column="28" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="322" Column="35" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="408" Column="28" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="scanfolder.lpr"/>
+        <Caret Line="220" Column="79" TopLine="193"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
